@@ -3,7 +3,7 @@
 This project provides an interactive **Excel Dashboard** to analyze hotel revenue based on booking data.  
 The dashboard allows stakeholders to monitor key metrics such as revenue, booking trends, distribution by market segments, and performance by hotel types.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Screenshot 2025-07-17 200129.png)
 
 ---
 
