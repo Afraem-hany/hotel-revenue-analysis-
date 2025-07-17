@@ -3,7 +3,7 @@
 This project provides an interactive **Excel Dashboard** to analyze hotel revenue based on booking data.  
 The dashboard allows stakeholders to monitor key metrics such as revenue, booking trends, distribution by market segments, and performance by hotel types.
 
-![Dashboard Preview](images/Screenshot 2025-07-17 200129.png)
+![Dashboard Preview](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/73d853ce6aea28566a9f7e0193cfd40ada69a997/images/Screenshot%202025-07-17%20200129.png)
 
 ---
 
