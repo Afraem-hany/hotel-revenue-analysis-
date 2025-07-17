@@ -48,13 +48,6 @@ The dashboard allows stakeholders to monitor key metrics such as revenue, bookin
 You can preview or run the cleaning SQL script separately:  
 [View SQL Script](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/e19f5e9859f334751cf8168e05df41bd2b467cae/hotel_revenue_sql.sql)
 
----
-
-## 📸 Screenshots
-
-| Dashboard Overview | Market Segments |
-|--------------------|------------------|
-| ![Dashboard]([images/dashboard_preview.png](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/0f9eda2b2327eb6721e32fca6ea39dbe49dfd0e7/images/Screenshot%202025-07-17%20200107.png)) | ![Segments](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/0f9eda2b2327eb6721e32fca6ea39dbe49dfd0e7/images/Screenshot%202025-07-17%20200129.png) |
 
 ---
 
