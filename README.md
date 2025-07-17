@@ -54,7 +54,7 @@ You can preview or run the cleaning SQL script separately:
 
 | Dashboard Overview | Market Segments |
 |--------------------|------------------|
-| ![Dashboard](images/dashboard_preview.png) | ![Segments](images/segment_chart.png) |
+| ![Dashboard]([images/dashboard_preview.png](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/0f9eda2b2327eb6721e32fca6ea39dbe49dfd0e7/images/Screenshot%202025-07-17%20200107.png)) | ![Segments](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/0f9eda2b2327eb6721e32fca6ea39dbe49dfd0e7/images/Screenshot%202025-07-17%20200129.png) |
 
 ---
 
