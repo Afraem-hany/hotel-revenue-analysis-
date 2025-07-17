@@ -30,14 +30,13 @@ The dashboard allows stakeholders to monitor key metrics such as revenue, bookin
 |------|-------------|
 | `hotel_revenue_project_finished.xlsx` | Excel Dashboard with all charts and metrics |
 | `hotel_data_cleaning.sql` | SQL script used to filter and clean the dataset |
-| `raw_data/` | (Optional) Folder containing raw or intermediate datasets |
-| `images/` | Folder where dashboard screenshots are stored |
+| `images/` | https://github.com/Afraem-hany/hotel-revenue-analysis-/tree/e19f5e9859f334751cf8168e05df41bd2b467cae/images |
 
 ---
 
 ## 🧭 How to Use
 
-1. Open the Excel file: [`hotel_revenue_project_finished.xlsx`](hotel_revenue_project_finished.xlsx)
+1. Open the Excel file: [`hotel_revenue_project_finished.xlsx`](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/e19f5e9859f334751cf8168e05df41bd2b467cae/hotel_revenue_project_finished.xlsx)
 2. Enable macros (if prompted)
 3. Use slicers and filters to explore the data
 4. Review visual KPIs and performance metrics
@@ -47,7 +46,7 @@ The dashboard allows stakeholders to monitor key metrics such as revenue, bookin
 ## 🔍 SQL Script
 
 You can preview or run the cleaning SQL script separately:  
-[View SQL Script](hotel_data_cleaning.sql)
+[View SQL Script](https://github.com/Afraem-hany/hotel-revenue-analysis-/blob/e19f5e9859f334751cf8168e05df41bd2b467cae/hotel_revenue_sql.sql)
 
 ---
 
